@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FlagsmithClient",
+        "repositoryURL": "https://github.com/Flagsmith/flagsmith-ios-client.git",
+        "state": {
+          "branch": "main",
+          "revision": "407bb5b42c9534b3df6beec1d094db1f305e7115",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
